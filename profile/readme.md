@@ -1,4 +1,5 @@
 # The MajorBBS Emulation Project
+[Home](https://www.mbbsemu.com) | [Wiki](https://wiki.mbbsemu.com) | [Issue Tracker](https://github.com/mbbsemu/MBBSEmu/issues) | [Releases](https://github.com/mbbsemu/MBBSEmu/releases) | [Automated Builds](https://www.mbbsemu.com/Downloads) | [Building MBBSEmu](./documents/development-tips.md) | [Modules](https://www.mbbsemu.com/Modules) | [Discord](https://discord.gg/BgjxMD5)
 The MajorBBS Emulation project is home to **MBBSEmu**, an Open Source, Self-Contained, Cross-Platform emulator for Galacticomm's The MajorBBS & Worldgroup 
 Bulletin Board Software Add-ons. MBBSEmu allows you to play your favorite original, unmodified MajorBBS or Worldgroup Games in your local console or over 
 Telnet without having to install and configure additional software. MBBSEmu allows Sysops running 
