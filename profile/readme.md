@@ -4,3 +4,11 @@ Bulletin Board Software Add-ons. MBBSEmu allows you to play your favorite origin
 Telnet without having to install and configure additional software. MBBSEmu allows Sysops running 
 [Synchronet](https://www.synchro.net/ "Synchronet BBS Software") or [Mystic](http://www.mysticbbs.com/ "Mystic BBS Software") to give their users access 
 to MajorBBS & Worldgroup Games on any platform without having to run a Virtual Machine with 30+ year old software!
+
+## Primary Repositories
+* [MBBSEmu](https://github.com/mbbsemu/MBBSEmu "MBBSEmu"): Primary repository for MBBSEmu & Releases
+* [MBBSEmu-Docker](https://github.com/mbbsemu/mbbsemu-docker "MBBSEmu Docker"): Docker Image for running MBBSEmu within Docker on any supported platform
+
+## Compatibility
+MBBSEmu was designed to run DOS based Modules for The MajorBBS (up to and including v6.25) as well as Worldgroup (up to and including 2.0 for DOS). Modules
+compiled for the Windows version of Worldgroup (WG3NT or MBBS v10) are not currently supported by MBBSEmu.
